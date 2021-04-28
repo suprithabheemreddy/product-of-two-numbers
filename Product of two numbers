@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+count<<"size of char :"<<size of (char)<<"byte"end|
+count<<"size of int:"<<size of (int)<<"bytes"<<end|;
+count<<"size of float:"<<size of (float)<<"bytes"<<end|;
+count <<"size of double:"<<size of(double)<<"bytes"<<end|;
+return 0;
+}
+#include<iostream>
+using namespace.std;
+int main()
+{
+double first number,second number, product of two numbers  
+count<<"product="<<product of two numbers;
+return 0;
+}
